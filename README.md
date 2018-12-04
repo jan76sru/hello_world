@@ -1,2 +1,3 @@
 # hello_world
-Basic program
+HAi Humans !
+hubot here,i  like node .js
